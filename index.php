@@ -68,7 +68,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="images\hauz1.jpg" style="height: 350px;" alt="Image">
+        <img src="images\hauz1.jpg" style="height: 400px;" alt="Image">
         <div class="carousel-caption">
           <h3>bla bla</h3>
           <p>Money Money.</p>
@@ -76,7 +76,7 @@
       </div>
 
       <div class="item">
-        <img src="images\hauz2.jpg" style="height: 350px;" alt="Image">
+        <img src="images\hauz2.jpg" style="height: 400px;" alt="Image">
         <div class="carousel-caption">
           <h3>More bla bla<h3>
           <p>yeah yeah</p>
@@ -84,7 +84,7 @@
       </div>
 
       <div class="item">
-        <img src="images\hauz3.jpg" style="height: 350px;" alt="Image">
+        <img src="images\hauz3.jpg" style="height: 400px;" alt="Image">
         <div class="carousel-caption">
           <h3>More bla bla<h3>
           <p>yeah yeah</p>
