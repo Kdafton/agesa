@@ -106,58 +106,77 @@
   
 <div class="container text-center">    
   <h3>What We Do</h3><br>
-  <div class="col-md-7">
-    <div class="panel panel-default">
-      <div class="panel-heading" style="background:   #B22222">Current project</div>
-       <div class="panel-body">
-        <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
+    <div class="row">
+        <div class="col-md-7">
+            <h4><strong>Sample manenos</strong></h4>
+            <p>
+                Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat
+                eros ante at velit. Nulla facilisi. Nullam id augue est. Proin semper eros pulvinar
+                quam eleifend, et dapibus urna semper. Vivamus commodo ornare placerat. Sed volutpat nibh
+                nibh, eget fringilla risus maximus in. In quis elit ac velit consequat blandit at quis diam.
+                Nullam blandit justo est, non consequat ipsum faucibus vitae. Maecenas consectetur risus ac magna
+                rhoncus tincidunt.
+            </p>
+            <ul>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+            </ul>
         </div>
-      </div>
-    </div> 
-  </div> 
-  <div class="col-md-5">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <br>
-  </div>
-
-    <div class="col-md-7">
-    <div class="panel panel-default">
-      <div class="panel-heading" style="background:   #B22222">Current project</div>
-       <div class="panel-body">
-        <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
+        <div class="col-md-5">
+            <img src="images\hauz7.jpg" class="img-responsive" style="width:100%" alt="Image">
+            <br>
         </div>
-      </div>
-    </div> 
-  </div> 
-  <div class="col-md-5">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <br>
-  </div>
+    </div>
 
-    <div class="col-md-7">
-    <div class="panel panel-default">
-      <div class="panel-heading" style="background:   #B22222">Current project</div>
-       <div class="panel-body">
-        <div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
+    <div class="row">
+        <div class="col-md-7">
+            <h4><strong>Sample manenos</strong></h4>
+            <p>
+                Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat
+                eros ante at velit. Nulla facilisi. Nullam id augue est. Proin semper eros pulvinar
+                quam eleifend, et dapibus urna semper. Vivamus commodo ornare placerat. Sed volutpat nibh
+                nibh, eget fringilla risus maximus in. In quis elit ac velit consequat blandit at quis diam.
+                Nullam blandit justo est, non consequat ipsum faucibus vitae. Maecenas consectetur risus ac magna
+                rhoncus tincidunt.
+            </p>
+            <ul>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+            </ul>
         </div>
-      </div>
-    </div> 
-  </div> 
-  <div class="col-md-5">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-      <br>
-  </div>
+        <div class="col-md-5">
+            <img src="images\hauz7.jpg" class="img-responsive" style="width:100%" alt="Image">
+            <br>
+        </div>
+    </div>
 
-
-
-
-
-
-
-  
+    <div class="row">
+        <div class="col-md-7">
+            <h4><strong>Sample manenos</strong></h4>
+            <p>
+                Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat
+                eros ante at velit. Nulla facilisi. Nullam id augue est. Proin semper eros pulvinar
+                quam eleifend, et dapibus urna semper. Vivamus commodo ornare placerat. Sed volutpat nibh
+                nibh, eget fringilla risus maximus in. In quis elit ac velit consequat blandit at quis diam.
+                Nullam blandit justo est, non consequat ipsum faucibus vitae. Maecenas consectetur risus ac magna
+                rhoncus tincidunt.
+            </p>
+            <ul>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+                <li>Cras iaculis, mi pretium dignissim rhoncus, nulla ante egestas nibh, in consequat</li>
+            </ul>
+        </div>
+        <div class="col-md-5">
+            <img src="images\hauz7.jpg" class="img-responsive" style="width:100%" alt="Image">
+            <br>
+        </div>
+    </div>
 
 </div>
 
