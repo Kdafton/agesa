@@ -111,9 +111,7 @@
       <div class="panel-heading" style="background:   #B22222">Current project</div>
        <div class="panel-body">
         <div>
-          <p>story story story storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory story</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
         </div>
       </div>
     </div> 
@@ -128,9 +126,7 @@
       <div class="panel-heading" style="background:   #B22222">Current project</div>
        <div class="panel-body">
         <div>
-          <p>story story story storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory story</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
         </div>
       </div>
     </div> 
@@ -145,9 +141,7 @@
       <div class="panel-heading" style="background:   #B22222">Current project</div>
        <div class="panel-body">
         <div>
-          <p>story story story storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory storystory story
-          story storystory storystory story</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel velit luctus, tempus nisl et, luctus odio. Quisque efficitur, augue nec hendrerit varius, nunc nulla ullamcorper lacus, vel convallis sem nisi nec dolor. Morbi accumsan dapibus purus nec laoreet. Suspendisse ut ex luctus, malesuada ipsum non, ultrices nulla. Sed varius urna at leo euismod luctus ut vitae lacus. In hac habitasse platea dictumst. Nam blandit nunc eu ullamcorper consectetur. Vivamus et convallis est. Aenean sed arcu massa. Donec vitae lacus lobortis, faucibus mauris in, sollicitudin massa. Duis mauris nisl, posuere et pharetra vel, egestas in elit. Vestibulum id velit eu diam elementum porta.</p>
         </div>
       </div>
     </div> 
