@@ -63,6 +63,7 @@
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Wrapper for slides -->
@@ -78,7 +79,7 @@
       <div class="item">
         <img src="images\hauz2.jpg" style="height: 400px;" alt="Image">
         <div class="carousel-caption">
-          <h3>More bla bla<h3>
+          <h3>More bla bla</h3>
           <p>yeah yeah</p>
         </div>      
       </div>
@@ -86,7 +87,7 @@
       <div class="item">
         <img src="images\hauz3.jpg" style="height: 400px;" alt="Image">
         <div class="carousel-caption">
-          <h3>More bla bla<h3>
+          <h3>More bla bla</h3>
           <p>yeah yeah</p>
         </div>      
       </div>
